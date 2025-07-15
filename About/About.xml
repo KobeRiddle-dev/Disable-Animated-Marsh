@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<modMetaData>
+	<name>Disable Animated Marsh | Clean Textures - VTE, Regrowth Compatibility Patch</name>
+	<author>Kobe Riddle</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+
+	<loadAfter>
+		<li>VanillaExpanded.VTEXE</li>
+		<li>ReGrowth.BOTR.Core</li>
+	</loadAfter>
+
+	<packageId>KobeRiddle.DisableAnimatedMarsh</packageId>
+
+	<description>
+		Disables the animated marsh from Vanilla Textures Expanded and Regrowth: Core so that the
+		Clean Textures marsh texture works properly.
+
+		Created by Kobe Riddle.
+		KobeRiddle.dev
+	</description>
+</modMetaData>
