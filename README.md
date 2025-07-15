@@ -1,7 +1,7 @@
 # Disable Animated Marsh | Clean Textures - VTE, Regrowth Compatibility Patch
 
 ## Description
-Disables the animated marsh from Vanilla Textures Expanded and Regrowth: Core so that the Clean Textures marsh texture works properly.
+Disables the animated marsh from [Vanilla Textures Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2016436324) and [Regrowth: Core](https://steamcommunity.com/sharedfiles/filedetails/?id=2260097569) so that the [Clean Textures](https://steamcommunity.com/sharedfiles/filedetails/?id=2865361569) marsh texture works properly.
 
 This is done by reverting the `EdgeType` of the `Marsh` `TerrainDef` back to `FadeRough`.
 
